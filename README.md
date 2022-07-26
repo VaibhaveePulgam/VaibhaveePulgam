@@ -19,4 +19,4 @@ Meeting new people and obtaining new experiences are two of my favorite things. 
 <h3>Connect with me:
 <a href="https://www.linkedin.com/in/vaibhavee-pulgam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhaveepulgam" height="30" width="40" /></a></h3>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhaveepulgam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaibhaveePulgam&label=Profile%20views&color=0e75b6&style=flat" alt="VaibhaveePulgam" /> </p>
